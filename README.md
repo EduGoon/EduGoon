@@ -54,13 +54,3 @@ Looking forward to start building cross platform mobile applications in Flutter
 ---
 
 💡 **Open to opportunities:** Internships, attachments, and collaborative projects in mobile or backend development.## Hi there 👋
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduGoon&show_icons=true&theme=tokyonight&hide_border=true" alt="Edwin's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduGoon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
