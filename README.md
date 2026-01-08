@@ -36,7 +36,7 @@ Currently seeking **attachment/internship opportunities** to gain hands-on exper
 **BSc Computer Technology** - Maseno University (2022 - Present)  
 Department of Computer Science
 
-**High School** - Koelel Forces Academy(Gilgil)
+**High School** - Koelel Forces Academy, Gilgil (2019 - 2022)
 
 ## 🌐 Connect With Me
 
@@ -57,6 +57,10 @@ Looking forward to start building cross platform mobile applications in Flutter
 
 ## 📊 GitHub Stats
 
-![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduGoon&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduGoon&show_icons=true&theme=tokyonight&hide_border=true" alt="Edwin's GitHub stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduGoon&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduGoon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
