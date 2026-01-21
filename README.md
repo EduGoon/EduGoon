@@ -42,7 +42,7 @@ Currently seeking **attachment/internship opportunities** to gain hands-on exper
 
 ## 🎓 Education
 
-- **BSc Computer Technology** – Maseno University (2022 - Present)  
+- **BSc Computer Technology** – Maseno University (2023 - Present)  
   Department of Computer Science  
 - **High School** – Koelel Forces Academy, Gilgil (2019 - 2022)
 
