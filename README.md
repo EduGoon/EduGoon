@@ -40,6 +40,25 @@ Currently seeking **attachment/internship opportunities** to gain hands-on exper
 
 ---
 
+## 🧪 Backend / Go (In Progress)
+I am actively learning Go and building backend services to transition into backend engineering.  
+Current focus areas:
+
+- Go fundamentals (structs, interfaces, concurrency, error handling)
+- REST API development with **Gin**
+- Database integration using **PostgreSQL**
+- Building clean, testable service layers and modular architecture
+
+**Current Go project:**  
+- **Event Aggregation REST API (Go)** — a small backend service that ingests events from multiple sources and exposes REST endpoints for querying and filtering events.
+
+This demonstrates my ability to:
+- learn new backend languages quickly
+- build production-style services
+- follow clean architecture and best practices
+
+---
+
 ## 🎓 Education
 
 - **BSc Computer Technology** – Maseno University (2023 - Present)  
@@ -77,3 +96,4 @@ Looking forward to contributing to **cross-platform mobile applications** and te
 ---
 
 💡 **Open to:** Internships, attachments, and collaborative projects in mobile or backend development.
+
